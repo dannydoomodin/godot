@@ -395,3 +395,6 @@ $RECYCLE.BIN/
 *.msp
 *.lnk
 *.generated.props
+
+#D3D12 Deps
+d3d12dependencies/
