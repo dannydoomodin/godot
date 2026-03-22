@@ -1,0 +1,1 @@
+scons platform=windows vsproj=yes mesa_libs=D:\GameDev\Godot4.6\godot\d3d12dependencies\godot-nir-static-x86_64-msvc-release agility_sdk_path=C:\Program Files\Microsoft PIX\2602.25\AgilitySDK pix_path=C:\Program Files\Microsoft PIX\2602.25
